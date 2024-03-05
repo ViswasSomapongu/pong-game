@@ -3,6 +3,8 @@
 # Python Pong Game
 
 Welcome to the Python Pong Game repository! This project is a simple implementation of the classic Pong game using Python. Have fun playing and exploring the code.
+## Screenshot
+![image](https://github.com/ViswasSomapongu/pong-game/assets/145599843/8a1cd5fc-f3f1-483b-98e1-62a1af8badbd)
 
 ## Table of Contents
 - [About the Game](#about-the-game)
